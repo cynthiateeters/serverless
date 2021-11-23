@@ -25,4 +25,4 @@ const refreshJoke = async () => {
 // load 1st joke
 refreshJoke();
 
-setInterval(refreshJoke, 10000);
+setInterval(refreshJoke, 20000);
